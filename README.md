@@ -1,5 +1,4 @@
 # software-engineering.co
-Materials used in https://software-engineering.co - CSC610 Final Project
 A project by Chip Gallagher, Sam Sauter, Hao Wu, and Adam Chester
 
 [View the website on Internet Archive](https://web.archive.org/web/20201229200521/http://software-engineering.co/homepage/homepage.html)
